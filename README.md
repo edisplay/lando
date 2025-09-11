@@ -33,7 +33,7 @@ Lando is and always will be FREE and OPEN SOURCE. As such it relies on generous 
 ### Recipes
 
 [Backdrop](https://docs.lando.dev/backdrop/) |
-[Drupal 6, 7, 8, 9, and 10](https://docs.lando.dev/drupal/) |
+[Drupal 6, 7, 8, 9, 10, and 11](https://docs.lando.dev/drupal/) |
 [Joomla](https://docs.lando.dev/joomla/) |
 [Lagoon](https://docs.lando.dev/lagoon/) |
 [Laravel](https://docs.lando.dev/laravel/) |
@@ -52,6 +52,7 @@ Lando is and always will be FREE and OPEN SOURCE. As such it relies on generous 
 [Elasticsearch](https://docs.lando.dev/elasticsearch/) |
 [Go](https://docs.lando.dev/go/) |
 [MailHog](https://docs.lando.dev/mailhog/) |
+[Mailpit](https://docs.lando.dev/mailpit/) |
 [MariaDB](https://docs.lando.dev/mariadb/) |
 [MySQL](https://docs.lando.dev/mysql/) |
 [MSSQL](https://docs.lando.dev/mssql/) |
