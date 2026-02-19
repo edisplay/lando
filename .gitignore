@@ -33,3 +33,11 @@ build
 dist
 
 yarn.lock
+
+
+# Syncthing
+.stfolder/
+.stversions/
+.stignore
+*.sync-conflict-*
+
